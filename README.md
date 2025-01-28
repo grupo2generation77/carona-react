@@ -17,9 +17,15 @@ O objetivo principal deste projeto é proporcionar uma plataforma intuitiva e ef
 ## Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **TypeScript**: Suporte para tipagem estática no JavaScript.
+- **JavaScript**: Linguagem de programação utilizada para o desenvolvimento de funcionalidades do site.
+- **HTML**: Linguagem de marcação utilizada para estruturar as páginas web.
+- **CSS**: Linguagem de estilo utilizada para estilização dos componentes do site.
+- **Tailwind CSS**: Framework CSS utilitário para estilização rápida e responsiva.
 - **Axios**: Cliente HTTP para realizar requisições à API.
 - **React Router**: Biblioteca para gerenciar navegação entre páginas no React.
 - **CSS Modules**: Para estilização de componentes de forma modular e escalável.
+- **VS Code**: Editor de código utilizado para o desenvolvimento do projeto.
 
 ## Estrutura do Projeto
 
