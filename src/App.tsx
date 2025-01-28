@@ -9,6 +9,7 @@ import Home from './pages/home/Home'
 function App() {
   return (
     <BrowserRouter>
+    <Navbar/>
     <Routes>
       <Route path='/' element={<Home/>}/>
       <Route path='/home' element={<Home/>}/>
