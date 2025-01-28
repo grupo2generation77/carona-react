@@ -1,3 +1,5 @@
+import './pages/viagens/Viagens'
+import Viagens from './pages/viagens/Viagens'
 import './App.css'
 import { BrowserRouter, Routes, Route} from 'react-router'
 import Home from './pages/home/Home'
