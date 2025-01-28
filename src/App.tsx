@@ -1,6 +1,6 @@
+import './pages/viagens/Viagens'
+import Viagens from './pages/viagens/Viagens'
 import './App.css'
-import About_us from './pages/about_us/About_us'
-
 function App() {
 
   return (
